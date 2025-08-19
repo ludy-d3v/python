@@ -1,3 +1,7 @@
 metodo_novo(){
+<<<<<<< HEAD
 	programador2
+=======
+	programador1
+>>>>>>> main
 }
